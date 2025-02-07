@@ -31,5 +31,6 @@ This project collects daily rice commodity price data from the official [Siskape
    ```bash
    pip install request pandas datetime
    ```
+3. Open and Run `Fetch_Data.ipynb`
 
 
