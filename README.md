@@ -1,5 +1,6 @@
 # Rice Price Web Scraping
 
+![Rice](images\rice.jpg)
 ## Overview
 This project collects daily rice commodity price data from the official [Siskaperbapo Jatim](https://siskaperbapo.jatimprov.go.id/) API. The data includes minimum, maximum, and average prices for rice within a specified date range. The scraped data is organized into a structured dataset that can be used for analysis, trend forecasting, or machine learning applications.
 
