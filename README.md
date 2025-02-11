@@ -38,6 +38,6 @@ The scraped data is saved to a CSV file with the following columns:
    ```bash
    pip install request pandas datetime
    ```
-3. Open and Run `Fetch_Data.ipynb`
+3. Open and Run `fetch_data.py`
 
 
