@@ -14,6 +14,13 @@ This project collects daily rice commodity price data from the official [Siskape
 1. **Data Scraping**: Use the provided functions to scrape the rice price data for a specific date range and commodity.
 2. **Data Analysis**: After collecting the data, you can use pandas to perform further analysis or visualizations.
 
+## Output Format
+The scraped data is saved to a CSV file with the following columns:
+- tanggal (date)
+- min price
+- max price
+- avg price
+
 ## Requirements
 - Python 3.x
 - Libraries:
